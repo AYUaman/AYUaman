@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Aman%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Manish%20Arsiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -7,7 +7,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Data+Analytics+Enthusiast;DevOps+and+Cloud+Learner;Building+Real+World+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=650&lines=Hi,+I'm+Manish+Arsiya;Data+Analytics+Enthusiast;DevOps+and+Cloud+Learner;Building+Real+World+Projects;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AYUaman&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
 
 ---
@@ -17,10 +21,10 @@
 
 - 🎓 Engineering Student  
 - 💻 Passionate about **Data Analytics & Backend Systems**  
-- 📊 Love turning data into insights  
+- 📊 Love converting raw data into insights  
 - ⚙️ Exploring **DevOps, Docker & Linux**  
-- 🧩 Improving **DSA & Problem Solving**  
-- 🚀 Goal: Crack a high-impact tech role  
+- 🧩 Practicing **DSA & Problem Solving**  
+- 🎯 Goal: Build impact-driven tech solutions  
 
 ---
 
@@ -34,7 +38,7 @@
 ### 📊 Data Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
 ### ⚙️ Tools & Platforms
@@ -46,13 +50,11 @@
 ---
 
 ## 🚀 Featured Projects
-🔥 Real-world, resume-ready projects
-
 - 📊 **Python Diwali Sales Analysis**  
 - 🚖 **OLA Data Analytics Project**  
-- 🌍 **GeoBook – Location Based Application**  
+- 🌍 **GeoBook – Location Based Application**
 
-👉 Check repositories for datasets, dashboards & insights.
+👉 Detailed docs & dashboards inside repositories.
 
 ---
 
@@ -70,7 +72,7 @@
 
 ---
 
-## 🟢 Contribution Graph
+## 🟢 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYUaman&theme=react-dark&hide_border=true" />
 </p>
@@ -81,6 +83,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AYUaman&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+![snake animation](https://raw.githubusercontent.com/AYUaman/snake-animation/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -97,10 +104,8 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
 </p>
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ **Thanks for visiting my profile!**
