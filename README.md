@@ -109,3 +109,80 @@
 </p>
 
 ⭐ **Thanks for visiting my profile!**
+
+
+## 🧠 My Mindset
+> “Consistency beats motivation.  
+> Small commits every day build big careers.”
+
+- Focus on long-term growth  
+- Learn → Build → Improve → Repeat  
+- Prefer depth over shortcuts
+
+
+
+## 🧪 Experiments & Playgrounds
+- 🔬 Data cleaning & EDA experiments  
+- 🐳 Docker mini labs  
+- 📊 Visualization practice dashboards  
+- ⚙️ Automation scripts (Python)
+
+
+## 🤝 Open To
+- 📌 Internships (Data / Software / DevOps)  
+- 👨‍💻 Open-source contributions  
+- 🤝 Project collaborations  
+- 💡 Learning from experienced developers
+
+
+
+## 📄 Resume
+📌 Resume available on request  
+📬 Feel free to connect via LinkedIn or Email
+
+
+
+
+## 🛠️ Tools I Use Daily
+- VS Code  
+- Git & GitHub  
+- Jupyter Notebook  
+- Power BI Desktop  
+- Linux Terminal
+
+
+## ⏳ My Weekly Tech Routine
+- 📅 5–6 days coding / analysis  
+- 🧩 DSA practice  
+- 📊 Data projects improvement  
+- 📖 Reading tech blogs / docs
+
+
+## 🧭 Career Direction
+- Short-term: Strong internships & projects  
+- Mid-term: Software / Data Engineer role  
+- Long-term: Build scalable tech solutions
+
+
+
+## 😄 Fun Facts
+- 🧠 I enjoy debugging more than coding  
+- 📊 I like finding patterns in messy data  
+- 🌙 Most productive at night  
+- ☕ Debugging runs on coffee
+
+
+
+
+## 📚 Learning Resources
+- Documentation > Tutorials  
+- GitHub repos  
+- Medium & technical blogs  
+- YouTube (project-based learning)
+
+
+---
+💡 *“Code is not just about syntax —  
+it’s about solving real problems.”*  
+---
+
